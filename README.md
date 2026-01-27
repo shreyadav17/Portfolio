@@ -33,10 +33,7 @@ If you wish to connect with me, you can reach out through the following channels
   <a href="mailto:shreyaydv171204@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  
-  <a href="https://www.instagram.com/_.shreyayadav._/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+ 
 </div>
 
 
