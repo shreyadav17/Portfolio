@@ -4,7 +4,7 @@ This portfolio website is built using HTML5, CSS3, JavaScript, and jQuery, showc
 
 ## 🌐 Website
 
-Explore my portfolio website: [Visit Now🚀](https://shreyadav17.github.io/Portfolio/)
+Explore my portfolio website: [Visit Now🚀](https://github.com/shreyadav17/Portfolio)
 ## 📌 Tech Stack
 
 - ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) HTML5
@@ -41,6 +41,6 @@ If you wish to connect with me, you can reach out through the following channels
 
 This portfolio website serves as a testament to my skills, projects, and creativity in web development. It aims to provide visitors with a comprehensive view of my work and capabilities.
 
-© 2024 Shreya Yadav
+© 2026 Shreya Yadav
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
